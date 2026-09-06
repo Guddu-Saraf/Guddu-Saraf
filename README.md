@@ -1,3 +1,32 @@
-<h1 align="center">Hi 👋, I'm Guddu Saraf</h1>
-<h3 align="center">Backend Engineer | Python Developer | Building scalable, high-performance systems</h3>
 
+# Hi, I'm Guddu 👋
+
+Backend Developer — FastAPI | Redis | PostgreSQL
+
+---
+
+## ⚡ About Me
+
+* 🔧 Working with FastAPI, Docker, PostgreSQL
+* 🧠 Exploring backend systems & architecture
+* 🛠 Building real backend projects
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=guddu-saraf\&theme=tokyonight)
+
+---
+
+## 📌 Focus
+
+* Scalable APIs
+* Caching (Redis)
+* Clean backend architecture
+
+---
+
+## 💡 Philosophy
+
+> Build. Break. Fix. Repeat.
